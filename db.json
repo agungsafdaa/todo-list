@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+      "catatan":"hi",
+      "tanggal":"null",
+      "aktif":true
+    }
+  ],
+
+}
