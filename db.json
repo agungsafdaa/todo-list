@@ -4,13 +4,13 @@
       "id": 1,
       "title": "hello",
       "catatan":"hi",
-      "aktif":true
+      "aktif":true,
     },
     {
       "id": 2,
       "title": "hello",
       "catatan":"hi",
-      "aktif":true
+      "aktif":true,
     }
   ],
  
