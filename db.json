@@ -5,14 +5,14 @@
       "title": "hello",
       "catatan":"a",
       "tanggal:":"null",
-      "aktif":false
+      "aktif":false,
     },
        {
       "id": 2,
       "title": "hello",
       "catatan":"a",
       "tanggal:":"null",
-      "aktif":false
+      "aktif":false,
     }
   ],
  
