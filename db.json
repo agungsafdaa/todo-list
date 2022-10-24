@@ -2,10 +2,11 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "hello",
+      'catatan":"a".
+      "tanggal:":"null",
+      "aktif":false
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+ 
 }
